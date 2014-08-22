@@ -19,5 +19,7 @@ class Solver:
 
 print "Solver module"
 
+print "Again for test of git"
+
 Solver().calculate()
 
