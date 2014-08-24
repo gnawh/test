@@ -2,6 +2,7 @@ import math
 
 __author__ = 'hoyong'
 
+# test1 branch
 class Solver:
     def calculate (self):
         while True:
