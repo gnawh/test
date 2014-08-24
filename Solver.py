@@ -2,6 +2,8 @@ import math
 
 __author__ = 'hoyong'
 
+# master branch test
+
 class Solver:
     def calculate (self):
         while True:
